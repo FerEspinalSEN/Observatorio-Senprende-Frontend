@@ -30,7 +30,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.sass"
+              "src/styles.sass",
+              "src/app/css/bootstrap.min.css",
+              "src/app/css/responsive.css",
+              "src/app/css/owl.carousel.min.css",
+              "src/app/css/jquery.mCustomScrollbar.min.css",
+              "src/app/css/colores.css"
             ],
             "scripts": []
           },
@@ -100,5 +105,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }
