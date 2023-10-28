@@ -560,7 +560,7 @@ ul.sign li a i {
 
 .banner_main {
   padding: 60px 0 0px 0;
-  background: url(../images/banner.jpg);
+  background: url(../../assets/banner.jpg);
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
@@ -1284,12 +1284,11 @@ ul.social_icont li a {
 /** footer **/
 
 .footer {
-  padding-top: 90px;
-  background: url(../images/footer_bg.jpg);
+  padding-top: 60px;
   background-size: 100% 100%;
   background-repeat: no-repeat;
   text-align: center;
-  margin-top: 90px;
+  margin-top: 100rem;
 }
 
 .logo2 {
@@ -1437,13 +1436,13 @@ ul.img_icon li {
 }
 
 .copyright {
-  background-color: #fff;
+  background-color: #30bad5;
   margin-top: 70px;
   padding: 20px 0px;
 }
 
 .copyright p {
-  color: #082557;
+  color: #fff;
   font-size: 18px;
   line-height: 22px;
   text-align: center;
@@ -1459,3 +1458,15 @@ ul.img_icon li {
 
 
 /** end footer **/
+
+.text-start {
+  text-align: left!important;
+}
+
+.text-center {
+  text-align: center!important;
+}
+
+.float-start {
+  float: left!important;
+}
