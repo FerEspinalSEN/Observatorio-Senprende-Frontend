@@ -1470,3 +1470,7 @@ ul.img_icon li {
 .float-start {
   float: left!important;
 }
+
+.float-end {
+  float:right!important;
+}

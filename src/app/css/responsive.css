@@ -85,7 +85,7 @@ ul.conta_icon li a {font-size: 12px;}
         margin-top: 15px;
     }
     .navigation.navbar-dark .navbar-toggler-icon {
-        background: url(../images/menu_icon.png);
+        background: url(../../assets/menu_icon.png);
         background-repeat: no-repeat;
     }
     .margin_bottom1 {
@@ -146,7 +146,7 @@ height: 231px;}
         padding: 0px 19px 40px 20px;
     }
     .navigation.navbar-dark .navbar-toggler-icon {
-        background: url(../images/menu_icon.png);
+        background: url(../../assets/menu_icon.png);
         background-repeat: no-repeat;
     }
 }
