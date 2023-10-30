@@ -37,7 +37,15 @@
               "src/app/css/jquery.mCustomScrollbar.min.css",
               "src/app/css/colores.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/app/js/jquery.min.js",
+              "src/app/js/popper.min.js",
+              "src/app/js/bootstrap.bundle.min.js",
+              "src/app/js/jquery-3.0.0.min.js",
+              "src/app/js/owl.carousel.min.js",
+              "src/app/js/jquery.mCustomScrollbar.concat.min.js",
+              "src/app/js/custom.js"
+            ]
           },
           "configurations": {
             "production": {
